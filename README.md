@@ -17,7 +17,7 @@ python eval.py --dataset CelebA --num_class 8
 ```
 
 ## Tips
-Download data from Baidudisk(code:sft2) and unzip it to root folder.
-https://pan.baidu.com/s/17PnRjznAvxnC4p_XZnZVrw 
-Well-trained models are accessible from Baidudisk(code:ur1g)
-https://pan.baidu.com/s/1Q5yyVBQ4EHJBm1ChjDSXPQ 
+Download data from Baidudisk(code:sft2) and unzip it to root folder.  
+https://pan.baidu.com/s/17PnRjznAvxnC4p_XZnZVrw  
+Well-trained models are accessible from Baidudisk(code:ur1g)  
+https://pan.baidu.com/s/1Q5yyVBQ4EHJBm1ChjDSXPQ   
