@@ -18,6 +18,7 @@ python eval.py --dataset CelebA --num_class 8
 
 ## Tips
 Pytorch version: 1.10.1
+
 Download data from Baidudisk(code:sft2)/Google driver and unzip it to root folder.  
 https://pan.baidu.com/s/17PnRjznAvxnC4p_XZnZVrw  
 https://drive.google.com/file/d/1o_T6VNS8FHu1EDvBKEjw92agbK1sD0p9/view?usp=sharing
